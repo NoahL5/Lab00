@@ -1,0 +1,3 @@
+						FISIER DE ANTRENAMENT
+							LAB00
+Prima linie din fisierul asta.txt
